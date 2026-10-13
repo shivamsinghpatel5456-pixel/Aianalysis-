@@ -1,0 +1,6 @@
+{
+  "name": "TradeGuru AI",
+  "description": "AI-powered trading chart analysis with vision recognition for candlestick patterns, support/resistance, UP/DOWN/SIDEWAYS predictions, and Hindi & English explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
